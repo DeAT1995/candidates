@@ -7,26 +7,9 @@ React Router: Biblioteca para gerenciar rotas na aplicação.
 React Bootstrap: Framework de UI que utiliza o Bootstrap para criar componentes estilizados.
 Axios: Cliente HTTP para fazer requisições à API backend.
 Bootstrap: Framework CSS para estilização da aplicação.
-Estrutura do projeto
 
-O projeto está dividido em vários arquivos e diretórios. A estrutura básica do projeto é a seguinte:
+# Estrutura do projeto
 
-java
-├── src
-│ ├── api
-│ │ └── api.js
-│ ├── pages
-│ │ └── Cadastro.js
-│ ├── utils
-│ │ └── Modal.js
-│ ├── App.js
-│ ├── index.js
-│ └── routes.js
-├── public
-│ ├── index.html
-│ └── ...
-├── package.json
-└── ...
 O diretório src contém o código-fonte da aplicação.
 O diretório api contém o arquivo api.js, que configura a conexão com a API backend.
 O diretório pages contém o arquivo Cadastro.js, que define o componente de cadastro e gerenciamento de candidatos.
