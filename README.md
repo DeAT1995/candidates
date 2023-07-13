@@ -12,23 +12,21 @@ Estrutura do projeto
 O projeto está dividido em vários arquivos e diretórios. A estrutura básica do projeto é a seguinte:
 
 java
-Copy code
 ├── src
-│   ├── api
-│   │   └── api.js
-│   ├── pages
-│   │   └── Cadastro.js
-│   ├── utils
-│   │   └── Modal.js
-│   ├── App.js
-│   ├── index.js
-│   └── routes.js
+│ ├── api
+│ │ └── api.js
+│ ├── pages
+│ │ └── Cadastro.js
+│ ├── utils
+│ │ └── Modal.js
+│ ├── App.js
+│ ├── index.js
+│ └── routes.js
 ├── public
-│   ├── index.html
-│   └── ...
+│ ├── index.html
+│ └── ...
 ├── package.json
 └── ...
-
 O diretório src contém o código-fonte da aplicação.
 O diretório api contém o arquivo api.js, que configura a conexão com a API backend.
 O diretório pages contém o arquivo Cadastro.js, que define o componente de cadastro e gerenciamento de candidatos.
