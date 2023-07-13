@@ -66,7 +66,7 @@ Divirta-se explorando e desenvolvendo novas funcionalidades nesta aplicação de
 # Importante:
 Para que a aplicação funcione corretamente, é necessário integrá-la a uma API backend. A URL base da API backend deve ser configurada no arquivo api.js localizado no diretório src/api.
 
-Certifique-se de clonar e configurar corretamente a API backend, disponível no repositório ***link.com***, antes de executar esta aplicação. A API backend é responsável por fornecer os dados e funcionalidades necessárias para o funcionamento da aplicação de gerenciamento de candidatos.
+Certifique-se de clonar e configurar corretamente a API backend, disponível no repositório ***https://github.com/DeAT1995/candidates-apiRest***, antes de executar esta aplicação. A API backend é responsável por fornecer os dados e funcionalidades necessárias para o funcionamento da aplicação de gerenciamento de candidatos.
 
 Siga as instruções de instalação e execução da API backend disponíveis em seu respectivo repositório antes de prosseguir com a execução da aplicação frontend.
 
